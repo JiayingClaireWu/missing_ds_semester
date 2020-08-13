@@ -4,6 +4,13 @@
 
 "The Missing Semester of Your Data Science Education" is a course covering the most commonly applied tools/ concepts/ workflows in the data science field under production environment. While many data science programs in academia focusing on helping students "to be" a data scientist (which is extremely important), this course walks students through the initial stage of "working" as a data scientist in the industry.
 
+### Target Audience
+
+- Junior Data Scientist
+- Job seekers in data science and analytics field
+- Career transitioner from other areas to the data science field
+- Anyone interested in the gaps between academia and industry for data scientists
+
 ### Syllabus
 
 **Lecture 1: Coding Bash in Shell - Command-line Interface (CLI)**
