@@ -1,5 +1,3 @@
-## The Missing Semester of Your Data Science Education
-
 ![Image of the course title](https://github.com/JiayingClaireWu/missing_ds_semester/blob/master/course_title.png)
 
 ### Background
