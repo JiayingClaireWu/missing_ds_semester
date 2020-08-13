@@ -1,5 +1,8 @@
 ## The Missing Semester of Your Data Science Education
 
+![Image of the course title]
+(https://github.com/JiayingClaireWu/missing_ds_semester/blob/master/course_title.png)
+
 ### Background
 
 "The Missing Semester of Your Data Science Education" is a course covering the most commonly applied tools/ concepts/ workflows in the data science field under production environment. While many data science programs in academia focusing on helping students "to be" a data scientist (which is extremely important), this course walks students through the initial stage of "working" as a data scientist in the industry.
