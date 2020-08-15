@@ -8,7 +8,7 @@
 
 - Junior Data Scientist
 - Job seekers in data science and analytics field
-- Career transitioner from other areas to the data science field
+- Career transitioners from other areas to the data science field
 - Anyone interested in the gaps between academia and industry for data scientists
 
 ### Syllabus
