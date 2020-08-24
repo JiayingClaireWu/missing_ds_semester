@@ -93,5 +93,5 @@
 ### Enrollment
 
 - This course offers both Chinese and English versions. (The slides and coding demos are all in English. Language of the audio has CN/ EN options.)
-- The CN version has been completed and will be launched at martechcareer.com in August 2020.
+- The CN version has been completed and will be launched at martechcareer.com on Sept 8, 2020.
 - The EN version is under recording. Please stay tuned!
